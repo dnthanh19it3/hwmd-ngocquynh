@@ -1,0 +1,8 @@
+<div class="wrapper bg4 shadow">
+        <div class="do-you-know">Thanh cảm thấy thật may mắn khi</div>
+        <div class="question"><h1>Được ở bên các bạn</h1></div>
+        <div class="answer">
+            <a href="#" id="btn4" class="btn-answer" onClick="load5()">Anh văn vở nhiều thế, rốt cuộc là muốn nói gì?</a>
+        </div>
+        <div class="note">*các bạn bao gồm là mẹ, chị em gái và các người bạn đến từ "phái đẹp"</div>
+    </div>

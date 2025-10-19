@@ -1,0 +1,5 @@
+    <div class="wrapper-credit">
+        <p><h1>Lời chúc 20/10 đến</h1><img src="asset/images/quynh_credit.jpg" class="rounded-circle" style="width: 100px;height:100px; object-fit:"></p>
+        <h2>Code and Design by mr nhớ dai</h2>
+        <h5>Lời chúc phiên bản đặc biệt vào ngày 20/10</h5>
+    </div>

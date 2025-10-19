@@ -1,0 +1,7 @@
+<div class="wrapper bg2 shadow">
+        <div class="do-you-know">Các bạn cũng giống như là nước</div>
+        <div class="question"><h1>Đối với trái đất vậy</h1></div>
+        <div class="answer">
+            <a href="#" id="btn2" class="btn-answer" onClick="load3()">Uhm, rồi sao?</a>
+        </div>
+    </div>

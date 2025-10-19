@@ -1,0 +1,8 @@
+<div class="wrapper bg6 shadow">
+        <div class="do-you-know">Nếu được giúp anh 1 việc</div>
+        <div class="question"><h1>Giúp Thanh gửi lời chúc nho nhỏ này đến những người thân yêu nhé!</h1></div>
+        <div class="answer">
+            <a href="#" id="btn6" class="btn-answer" onClick="load7()">Và...</a>
+        </div>
+        <div class="note">*Cái hình maybe giống, nghe bảo nhà còn em gái nữa</div>
+    </div>

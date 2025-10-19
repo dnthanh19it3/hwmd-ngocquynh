@@ -1,0 +1,7 @@
+<div class="wrapper bg3 shadow">
+        <div class="do-you-know">Nếu không có các cậu</div>
+        <div class="question"><h1>Cuộc sống sẽ thật tẻ nhạt</h1></div>
+        <div class="answer">
+            <a href="#" id="btn3" class="btn-answer" onClick="load4()">Uhm, rồi sao?</a>
+        </div>
+    </div>

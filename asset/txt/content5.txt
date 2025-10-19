@@ -1,0 +1,7 @@
+    <div class="wrapper bg5 shadow">
+        <div class="do-you-know">Gửi em Quỳnh lời chúc nho nhỏ</div>
+        <div class="question"><h1>Chúc Ngọc Quỳnh luôn mãi xinh tươi, mạnh khoẻ, hạnh phúc và đạt những điều mình mong muốn</h1></div>
+        <div class="answer">
+            <a href="#" id="btn5" class="btn-answer" onClick="load6()">Và...</a>
+        </div>
+    </div>

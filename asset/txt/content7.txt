@@ -1,0 +1,8 @@
+    <div class="wrapper bg7 shadow">
+        <div class="do-you-know">Cuối cùng là lời chúc...</div>
+        <div class="question"><h1>Ngủ ngonnn!</h1></div>
+        <div class="answer">
+            <a href="#" id="btn7" class="btn-answer" onClick="load8()">END!</a>
+        </div>
+        <div class="note">*Nhớ giữ gìn sức khoẻ và bảo vệ nhanh sắc :)))</div>
+    </div>
